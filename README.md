@@ -17,7 +17,7 @@ In order to do so, we will use the following approach:
 1. Exploritory data analysis
 2. Data preparation 
 *This step include the following filtering, missing values, imputation ...,feature extraction and feature engineering*
-3. Model Training
+3. Model Training and evaluation
 *We will compare many models namely Gradient Boosting Decision Tree, Random Forest and Logistic Regression.
 We will also do a Grid search for hyperparameters tuning.*
 4. Saving the best model
