@@ -15,9 +15,9 @@ Spark is a power in-memory large-scale computing engine. We can interact with sp
 We will use the Titanic dataset. Our objective is to create a model that will predict the survability of the passengers.
 In order to do so, we will use the following approach:
 1. Exploritory data analysis
-2. Data preparation 
+2. Data preparation </br/>
 *This step include the following filtering, missing values, imputation ...,feature extraction and feature engineering*
-3. Model Training and evaluation
+3. Model Training and evaluation </br/>
 *We will compare many models namely Gradient Boosting Decision Tree, Random Forest and Logistic Regression.
 We will also do a Grid search for hyperparameters tuning.*
 4. Saving the best model
